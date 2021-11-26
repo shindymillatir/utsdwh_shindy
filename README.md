@@ -1,2 +1,0 @@
-# utsdwh_shindy
-Project UTS Data Werehouse. Shindy Millati Rachma_19090139_5A Pertama yang dilakukan yaitu mengimport sql yang sudah didownload dari soal, lalu dibuat database. Selanjutnya merapihkan desain pada classic model lalu export ke dalam bentuk pdf dan svg. Membuat database dengan nama uts_shindy yang didalamnya ada 3tabel, yaitu dim_customer, dim_order, dan dim_payment. Selanjutnya melakukan transformasi menggunakan aplikasi spoon sesuai dengan tabel yang ada didalam uts_shindy. 
